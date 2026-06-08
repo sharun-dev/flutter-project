@@ -72,3 +72,7 @@ trailer/
 │   └── firebase_options.dart # Local Firebase environment setup
 ├── android/               # Native Android target configurations
 └── ios/                   # Native iOS target configurations
+```
+### APP WORKING CORE VIDEO
+
+https://github.com/user-attachments/assets/748ab0a6-5252-430c-a008-fe3d7977e24e
